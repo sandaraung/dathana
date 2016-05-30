@@ -2,49 +2,70 @@
     "dathana": [
         {
                 "id": "1",
-                "name": "မင္းခိုက္စိုးစံ"
-                
+                "poem_name": "",
+		        "poem":"",
+	        	"writer_name":"မင္းခိုက္စိုးစန္"                
         },
         {
                 "id": "2",
-                "name": "တာယာမင္းေ၀"
+                "poem_name": "",
+	        	"poem":"",
+	        	"writer_name":"တာယာမင္းေ၀"               
         },
         {
-                "id": "3",
-                "name": "သစၥာနီ"
+                 "id": "3",
+                "poem_name": "",
+		        "poem":"",
+		        "writer_name":"မင္းသု၀ဏ္"               
         },
         {
                 "id": "4",
-                "name": "ေဖာ္ေ၀း"
+                "poem_name": "",
+	         	"poem":"",
+		        "writer_name":"မေနာ္ဟရီ"               
         },
         {
-                "id": "5",
-                "name": "ေအာင္ခ်ိမ္ ့"
+                 "id": "5",
+                 "poem_name": "",
+	           	"poem":"",
+		        "writer_name":"ေအာင္ခ်ိမ္ ့"               
         },
         {
-                "id": "6",
-                "name": "မင္းသု၀ဏ္"
+                 "id": "6",
+                "poem_name": "",
+		        "poem":"",
+		        "writer_name":"သစၥာနီ"               
         },
         {
-                "id": "7",
-                "name": "မေနာ္ဟရီ"
+                 "id": "7",
+                "poem_name": "",
+		        "poem":"",
+		        "writer_name":"ေမာင္စိန္၀င္းပုတီးကုန္း"               
         },
          {
-                "id": "8",
-                "name": "ေမာင္စိန္၀င္း(ပုတီးကုန္း)"
+                 "id": "8",
+                "poem_name": "",
+		        "poem":"",
+		        "writer_name":"ေမာင္ေခ်ာႏြယ္"               
         },
          {
                 "id": "9",
-                "name": "ၾကည္ေအး"
+                "poem_name": "",
+	        	"poem":"",
+	        	"writer_name":"ၾကည္ေအး"               
         },
          {
                 "id": "10",
-                "name": "ေမာင္ေခ်ာႏြယ္"
-        },
+                "poem_name": "",
+	        	"poem":"",
+	        	"writer_name":"ေဖာ္ေ၀း"               
          {
-                "id": "10",
-                "name": "ထူးအိမ္သင္"
+                 "id": "11",
+                "poem_name": "",
+		        "poem":"",
+		        "writer_name":"အလင္းေလး"               
         }
+        
         
     
   ]
