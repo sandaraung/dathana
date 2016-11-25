@@ -1,0 +1,16 @@
+[
+    {
+        "ads": [
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/640px-AmazonWebservices_Logo.svg.png",
+                "link": "https://aws.amazon.com"
+            }, {
+                "image": "https://gigaom.com/wp-content/uploads/sites/1/2014/01/gcplogo.jpg",
+                "link": "https://cloud.google.com"
+            }, {
+                "image": "https://lh3.googleusercontent.com/-3GyzQGTMrhg/V-FMkotcVII/AAAAAAAAAmo/j4Sdr_5L-vo0bjw7JbVLu-snGoerWGN2ACJoC/w506-h750/firebase.png",
+                "link": "https://firebase.google.com"
+            }
+        ]
+    }
+]
