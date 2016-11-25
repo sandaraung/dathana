@@ -3,8 +3,8 @@
         "product_id": "123",
         "ads": [
             {
-                "link": "https://aws.amazon.com",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/640px-AmazonWebservices_Logo.svg.png"
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/640px-AmazonWebservices_Logo.svg.png",
+                "link": "https://aws.amazon.com"
             }, {
                 "image": "https://gigaom.com/wp-content/uploads/sites/1/2014/01/gcplogo.jpg",
                 "link": "https://cloud.google.com"
